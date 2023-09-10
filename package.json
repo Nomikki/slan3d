@@ -1,11 +1,11 @@
 {
-  "name": "slanstein3d",
+  "name": "slan3d",
   "version": "0.0.000001",
   "description": "",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Nomikki/slanstein3d.git"
+    "url": "git+https://github.com/Nomikki/slan3d.git"
   },
   "scripts": {
     "lint": "eslint . --ext .ts; exit 0",
